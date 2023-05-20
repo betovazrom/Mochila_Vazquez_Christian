@@ -1,0 +1,8 @@
+git init: Sirve para incializar un repositorio.
+git add: Sirve para añadir un archivo o carpeta al stage area.
+git commit: Sirve para añadir los cambios a nuestra carpeta .git. 
+git push: Sirve para subir el repositorio.
+git pull: sirve para bajar un repositorio.
+git branch: crea una nueva rama.
+git checkout: sirve para moverte de ramas.
+git merge: sirve para unir un commit de dos ramas diferentes.
