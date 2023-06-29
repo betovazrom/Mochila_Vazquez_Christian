@@ -1,0 +1,7 @@
+Mac de mi VM
+ 08:00:27:47:30:73  
+Ip publica de mi VM
+ 187.212.162.154
+Ip Privada
+ 192.168.1.75 
+Son diferentes las ip de mi maquina virtual a la local.
